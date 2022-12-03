@@ -21,3 +21,27 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+AWS_IoT_DHT11-main/docs/figures/state-change-by-app.png
+AWS_IoT_DHT11-main/docs/readme.md
+AWS_IoT_DHT11-main/docs/figures/subscribe-topic.png
+AWS_IoT_DHT11-main/docs/figures/run4.png
+AWS_IoT_DHT11-main/docs/figures/aws-iot-connect.png
+AWS_IoT_DHT11-main/docs/figures/arduino_outgoing.png
+AWS_IoT_DHT11-main/docs/figures/arduino-dht11-led.png
+AWS_IoT_DHT11-main/docs/figures/architecture1.png
+AWS_IoT_DHT11-main/docs/device-shadows.md
+AWS_IoT_DHT11-main/docs/aws-arduino-connect.md
+AWS_IoT_DHT11-main/docs/arduino-setting.md
+AWS_IoT_DHT11-main/AWS_IoT_DHT11/Led.h
+AWS_IoT_DHT11-main/AWS_IoT_DHT11/Led.cpp
+AWS_IoT_DHT11-main/docs/figures/csr_txt.png
+AWS_IoT_DHT11-main/docs/figures/device-shadow-flow.png
+AWS_IoT_DHT11-main/docs/figures/device-state-changed.png
+AWS_IoT_DHT11-main/docs/figures/dht-11_result.png
+AWS_IoT_DHT11-main/docs/figures/get-device-state.png
+AWS_IoT_DHT11-main/docs/figures/install-library.png
+AWS_IoT_DHT11-main/docs/figures/mkr1010-board.png
+AWS_IoT_DHT11-main/docs/figures/publish-topic.png
+AWS_IoT_DHT11-main/docs/figures/receive-msg.PNG
+AWS_IoT_DHT11-main/docs/figures/run1.png
+AWS_IoT_DHT11-main/docs/figures/run2.png
